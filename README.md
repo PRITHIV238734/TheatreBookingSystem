@@ -1,9 +1,9 @@
-Theatre Booking System (Java Console Application)
+**Theatre Booking System (Java Console Application)**
 
 A simple Java-based console application that allows users to view seat availability, book tickets, and view booking statistics for a theatre.
 This project demonstrates core Java concepts like arrays, loops, conditional statements, and user input handling.
 
-Project Overview
+**Project Overview**
 
 The Theatre Booking System is a console program that simulates a small theatre with a fixed number of rows and seats.
 Users can:
@@ -16,7 +16,7 @@ See booking statistics such as total income and available seats
 
 This project is ideal for beginners learning Java programming and basic object-oriented logic.
 
-Features
+**Features**
 
 Display seating arrangement (Available & Booked seats)
 Book a ticket by choosing row and seat number
@@ -24,7 +24,7 @@ Prevent double-booking of seats
 Show booking statistics (total, booked, and available seats + income)
 Simple menu-driven interface
 
-Concepts Used
+**Concepts Used**
 
 2D Arrays (boolean[][])
 
@@ -36,39 +36,40 @@ User input handling using Scanner
 
 Constants and static methods
 
-System Requirements
+**System Requirements**
 Requirement	Description
 Language	Java (JDK 8 or higher)
 IDE (optional)	IntelliJ IDEA / NetBeans / VS Code
 Execution	Runs on Command Line / Terminal
 
-Project Structure
+**Project Structure**
 TheatreBookingSystem/
 │
 ├── TheatreBookingSystem.java   # Main source file
 ├── README.md                   # Project documentation
 └── (Optional) screenshots/     # Console screenshots
 
- How to Run the Program
+** How to Run the Program**
 1. Compile the code
 javac TheatreBookingSystem.java
 
 2. Run the program
 java TheatreBookingSystem
 
- Menu Options
+** Menu Options**
 Option	Description
 1. Show Seats	Displays seat availability (O = Available, X = Booked)
 2. Book Ticket	Allows user to select a seat to book
 3. Show Statistics	Shows total seats, booked seats, available seats, and total income
 4. Exit	Exits the program
- Ticket Details
+ 
+ **Ticket Details**
 
 Ticket Price: ₹150 per seat
 
 Total Seats: 5 rows × 10 seats = 50 seats
 
- Example Output
+** Example Output**
 THEATRE BOOKING SYSTEM
 1. Show Seats
 2. Book Ticket
@@ -92,7 +93,7 @@ Booked Seats: 5
 Available Seats: 45
 Total Income: ₹750
 
- Possible Enhancements
+** Possible Enhancements**
 
  Future improvements you can add:
 
@@ -114,3 +115,4 @@ Prithivrajan T
  GitHub: PRITHIV238734
 
  LinkedIn: prithivrajan-t-641178219
+
