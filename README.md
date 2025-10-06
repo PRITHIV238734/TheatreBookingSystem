@@ -113,12 +113,14 @@ Implement a GUI (Swing/JavaFX) version
 
  Author
 
-Prithivrajan T
+ Prithivrajan T
+
  Email: prithiv1999t@gmail.com
 
  GitHub: PRITHIV238734
 
  LinkedIn: prithivrajan-t-641178219
+
 
 
 
