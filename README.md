@@ -79,8 +79,11 @@ Enter your choice: 1
 
 Seating Arrangement (O = Available, X = Booked)
     1  2  3  4  5  6  7  8  9 10
+    
 R1  O  O  O  O  O  O  O  O  O  O
+
 R2  O  O  O  O  O  O  O  O  O  O
+
 ...
 
 Enter row number (1-5): 2
@@ -115,4 +118,5 @@ Prithivrajan T
  GitHub: PRITHIV238734
 
  LinkedIn: prithivrajan-t-641178219
+
 
